@@ -1,0 +1,13 @@
+{
+  "name": "NodeAPI",
+  "version": "1.0.0",
+  "author": "Evgeny Aleksandrov",
+  "description": "Simple example of RESTful API with Node.js and passport",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "express-fileupload": "^0.1.1"
+  }
+}
